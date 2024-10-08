@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Mauclair</h1>
-<h3 align="center">I'm Full-Stack & Mobile Developer and French Master's student</h3>
+<h3 align="center">Full-Stack & Mobile Developer and French Master's student</h3>
 
 - 🔭 I’m currently working on **academic project**
 
